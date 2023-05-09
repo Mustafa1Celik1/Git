@@ -5,5 +5,8 @@ public class Class1 {
         //V1
         System.out.println( "hii");
         //v2
+        System.out.println("merhaba");
+        //v3
+
     }
 }
